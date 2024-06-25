@@ -1,0 +1,12 @@
+CREATE TABLE CRYPTO.cryptocurrencies (
+    SNo INT NOT NULL,
+    Name TEXT NOT NULL,
+    Symbol TEXT NOT NULL,
+    Date TIMESTAMP NOT NULL,
+    High NUMERIC NOT NULL,
+    Low NUMERIC NOT NULL,
+    Open NUMERIC NOT NULL,
+    Close NUMERIC NOT NULL,
+    Volume NUMERIC NOT NULL,
+    Marketcap NUMERIC NOT NULL
+);
