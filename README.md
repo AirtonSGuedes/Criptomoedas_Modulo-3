@@ -48,6 +48,48 @@ Este projeto tem como objetivo realizar uma análise exploratória dos valores h
 
 - **Correlação entre Valores:** Identificamos uma correlação positiva entre [Criptomoeda A] e [Criptomoeda B], sugerindo que seus valores têm uma tendência a se moverem juntos.
 
+
+
+# Como Utilizar um Arquivo .ipynb no Google Colab ou Jupyter Notebook
+
+## 1. Google Colab
+
+O Google Colab é uma plataforma gratuita baseada em nuvem que permite executar Notebooks Jupyter sem necessidade de configuração local.
+
+### Passos:
+
+1. Abra o Google Colab em [colab.research.google.com](https://colab.research.google.com).
+2. No menu do Colab, selecione **File > Upload notebook**.
+3. Selecione o arquivo .ipynb que você deseja carregar.
+4. Após o carregamento, o notebook será aberto no Colab e estará pronto para uso.
+
+## 2. Jupyter Notebook Localmente
+
+O Jupyter Notebook permite que você execute Notebooks Jupyter diretamente em sua máquina.
+
+### Passos:
+
+1. Instale o Jupyter Notebook se ainda não o tiver instalado. Você pode instalar utilizando o pip:
+   ```
+   pip install notebook
+   ```
+2. No terminal (ou prompt de comando), navegue até o diretório onde está seu arquivo .ipynb.
+3. Digite o seguinte comando para iniciar o Jupyter Notebook:
+   ```
+   jupyter notebook
+   ```
+4. O Jupyter Notebook será aberto em seu navegador padrão. Navegue até o arquivo .ipynb e clique nele para abrir e começar a usar.
+
+## 3. Exemplo de Uso
+
+Para demonstrar como usar o arquivo .ipynb:
+
+1. Abra o arquivo `seu_arquivo.ipynb` no Google Colab ou no Jupyter Notebook.
+2. Execute as células de código pressionando `Shift + Enter`.
+3. Leia as descrições e instruções fornecidas dentro do notebook.
+4. Interaja com o código conforme necessário para entender e modificar o comportamento do notebook.
+
+
 ## Perguntas Adicionais
 
 - **Influência de Eventos Externos:** Investigamos se eventos externos, como regulamentações governamentais ou notícias importantes, influenciaram os valores das criptomoedas.
